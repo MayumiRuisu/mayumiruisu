@@ -74,8 +74,7 @@ Each project reflects clarity, traceability and attention to detail.
 ## 🌻 Contact
 
 Portfolio: https://mayumiruisu.lovable.app  
-LinkedIn: www.linkedin.com/in/mayumi-ruisu  
-Email: mayumiruisu@gmail.com
+LinkedIn: www.linkedin.com/in/mayumi-ruisu
 
 ---
 
