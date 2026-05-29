@@ -8,14 +8,15 @@ Portfolio: https://mayumiruisu.lovable.app
 ---
 
 ## 🌷 About Me
+ 
+I am a trilingual **Quality Assurance Engineer (Japanese–Spanish–English)** with expertise in **manual and automated testing, API validation, bug tracking & reporting, and Agile/Scrum methodologies**.  
 
-I am a Quality Assurance Engineer with a strong foundation in manual testing, structured documentation and analytical problem-solving.
+My professional journey spans more than a decade in **project management, education, and technical translation**, where I developed strong skills in leadership, intercultural communication, and process standardization.  
 
-My approach to quality goes beyond bug detection — I focus on understanding the product, identifying risks early and ensuring a consistent user experience.
+In QA, I specialize in **functional, regression, UI, mobile, and database testing**, using tools such as **Selenium, Python, Pytest, SQL/PostgreSQL, Jira, and Postman**. My focus is not only on detecting bugs but on **anticipating risks, ensuring product stability, and delivering reliable user experiences**.  
 
-I collaborate closely with design specifications to ensure visual consistency and usability standards are met.
+Currently, I am strengthening my technical profile in **test automation, API testing, and CI/CD integration**, with the goal of contributing to **high-performing international teams** that value quality, collaboration, and innovation.  
 
-I am currently strengthening my technical profile in test automation, API testing and CI/CD integration, with the goal of contributing to high-performing international teams.
 
 ---
 
